@@ -1,4 +1,4 @@
-const FCC = "freeCodeCamp"; // Change this line
-let fact = "is cool!"; // Change this line
+const FCC = "freeCodeCamp"; 
+let fact = "is cool!"; 
 fact = "is awesome!";
-console.log(FCC, fact); // Change this line
+console.log(FCC, fact); 

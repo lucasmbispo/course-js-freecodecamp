@@ -1,0 +1,1 @@
+const myArray = ["edmilson", 2];
