@@ -1,5 +1,8 @@
-function reusableFunction(){
-  console.log("Hi World");
+const outerWear = "T-Shirt";
+
+function myOutfit() {
+  let outerWear = "sweater";
+  return outerWear;
 }
 
-reusableFunction();
+myOutfit();
