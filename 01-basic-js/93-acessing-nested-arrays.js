@@ -18,4 +18,4 @@ const myPlants = [
 ];
 
 
-const secondTree = myPlants[0].trees[1];
+const secondTree = myPlants[1].list[1];
